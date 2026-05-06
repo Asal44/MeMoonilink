@@ -2,6 +2,12 @@
 > Click on any link below to start downloading directly.<br><br/>
 
 
+### 📅 2026-05-07 01:40 IR
+- 📥 [thefeed-server-windows-amd64.exe](https://github.com/Asal44/MeMoonilink/raw/main/dl/thefeed-server-windows-amd64.exe) `3.9MB`
+
+---
+
+
 ### 📅 2026-05-06 20:32 IR
 - 📱 [thefeed-android-v0.16.2-arm64-v8a.apk](https://github.com/Asal44/MeMoonilink/raw/main/dl/thefeed-android-v0.16.2-arm64-v8a.apk) `8.9MB`
 
